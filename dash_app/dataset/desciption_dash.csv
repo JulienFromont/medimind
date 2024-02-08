@@ -1,0 +1,54 @@
+descAcceuil,descPredict,descInfo
+"La maladie chronique rénale est une condition pathologique caractérisée par une détérioration progressive et persistante de la fonction rénale.
+Elle implique une diminution de la capacité des reins à filtrer et à éliminer les déchets et les toxines du sang, ainsi qu'à maintenir l'équilibre électrolytique et hydrique dans le corps.
+La maladie rénale chronique peut résulter de diverses causes, notamment l'hypertension artérielle, le diabète, les infections rénales récurrentes ou d'autres affections sous-jacentes.",nothing for help code,Nous avons utilisé des datasets annonyme données par Soufiane Maski puis nous les avons retravaillé pour qu'il soit plus facile à utilisé
+"Le diabète est une maladie chronique qui se caractérise par des niveaux élevés de glucose dans le sang, souvent causés par une production insuffisante d'insuline par le pancréas
+ou une résistance à l'insuline chez les cellules du corps. Le diabète peut entraîner de graves complications à long terme, telles que des lésions des vaisseaux sanguins, des problèmes cardiaques,
+des atteintes nerveuses, des lésions rénales et des problèmes de vision.","quantité d'hémoglobine dans le sang, une protéine qui transporte l'oxygène des poumons vers les tissus du corps.","Ce projet à eté fait par BESSON Nicholas, KETTE Gilles, GUTIERREZ Jesus et FROMONT Julien"
+"Le cancer du foie est une maladie maligne qui se développe au niveau des cellules. Il résulte généralement de l'exposition à des agents cancérigènes due à une consommation excessive d'alcool.
+Le cancer du foie se caractérise par une croissance anormale et incontrôlée des cellules hépatiques, formant une masse ou une tumeur dans le foie.
+Les cellules cancéreuses peuvent se propager à d'autres parties du foie ou à des organes distants du corps par le système sanguin. il est souvent diagnostiqué à un stade avancé, ce qui rend son traitement plus difficile.
+",concentration des solutés dans l'urine par rapport à l'eau.,"Nousa avons utilisé les bibliothèque suivant: Pandas, Dash, Plotly et sklearn"
+"Le cancer cardiaque, bien que rare, peut se développer dans les tissus du cœur. Il peut affecter différentes parties du cœur, y compris les muscles, les valves, ou les vaisseaux sanguins.
+Les cellules cancéreuses qui se forment dans le cœur peuvent compromettre son fonctionnement normal en perturbant le flux sanguin ou en interférant avec les contractions cardiaques régulières.
+Comme pour d'autres cancers, le cancer cardiaque peut potentiellement se propager à d'autres parties du corps par le biais du système lymphatique ou sanguin.
+Les symptômes peuvent inclure des palpitations, des douleurs thoraciques, une fatigue extrême, et des difficultés respiratoires.
+Le traitement du cancer cardiaque peut impliquer une combinaison de chirurgie, de chimiothérapie et de radiothérapie, selon le stade et la localisation de la maladie.
+",Il s'agit de la quantité d'urée présente dans le sang. L'urée est un produit de dégradation des protéines.,
+"Le cancer du sein est une maladie maligne qui se développe au niveau des cellules du sein. Il s'agit d'une croissance anormale et incontrôlée de ces cellules, 
+formant une masse ou une tumeur. Les cellules cancéreuses peuvent envahir les tissus voisins et se propager à d'autres parties du corps par le biais du système lymphatique ou sanguin, 
+un processus appelé métastase. Le cancer du sein peut toucher aussi bien les hommes que les femmes, bien que ce soit plus fréquent chez les femmes.",concentration de glucose dans le sang à un moment donné,
+,force du sang exercée contre les parois des artères. ,
+,"présence de cellules de pus dans l'urine, 0: pas de présence, 1: présence",
+,"votre envie de manger, 0: vous avez de l'appetit, 1: vous n'avez pas d'appetit",
+,présence de sucre dans l'urine,
+,désigne le nombre de fois où une femme a été enceinte,
+,concentration de glucose plasmatique,
+,pression artérielle diastolique,
+,épaisseur de la peau,
+,insuline sérique sur 2h,
+,indice de masse corporelle,
+,fonction pedigree du diabete,
+,Votre age actuel,
+,Votre taux de bilirubine directe dans le sang.,
+,Votre taux de bilirubine totale dans le sang.,
+,Votre taux d'alanine aminotransférase dans le sang.,
+,Votre taux de phosphatase alcaline dans le sang.,
+,Votre taux d'albumine dans le sang.,
+,Votre rapport entre l'albumine et la globuline (les deux principales protéines du sang).,
+,Votre age actuel,
+,Votre genre : 0 pour homme et 1 pour feamme,
+,"Votre type de douleurs thoracique (Chest Pain), 1: angine de poitrine typique, 2: angine de poitrine atypique, 3: douleurs autre angine de poitrine, 4: asymptomatic",
+,Votre tension artérielle au repos,
+,Votre cholestérol sérique,
+,"Votre résultats électrocardiographiques au repos., 0 : hypertrophie ventriculaire gauche probable ou certaine selon les critères d'Estes, 1 : RAS, 2 : anomalie de l'onde ST-T",
+,Votre fréquence cardiaque maximale atteinte.,
+,"Votre angine de poitrine induite par l'exercice., 1 : présence d'angine, Valeur 2 : RAS",
+,Votre dépression du segment ST induite par l'exercice par rapport au repos,
+,"Votre pente du segment ST à l'effort maximal., 0 : en pente descendante, 1 : plat, 2 : en pente ascendante",
+,Votre nombre de vaisseaux majeurs colorés par fluoroscopie (de 0 à 3),
+,"Votre type de thalassémie, Valeur 0 : NULL, Valeur 1 : défaut fixe, Valeur 2 : flux sanguin normal, Valeur 3 : anomalie réversible",
+,Votre moyenne de la surface de la tumeur.,
+,Votre moyenne de la gravité des parties concaves du contour de la tumeur,
+,Votre moyenne de la texture de la tumeur,
+,Votre moyenne de lissé de la tumeur,
